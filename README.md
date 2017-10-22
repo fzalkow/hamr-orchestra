@@ -1,6 +1,8 @@
 # hamr-orchestra
 Fun Project for HAMR@ISMIR 2017
 
+See the [HAMR Wiki](https://ismir2017.smcnus.org/hamr/doku.php?id=hamr-orchestra) for explanations and results!
+
 ## Usage
 
     conda env create -f environment.yml    # setting up environment
