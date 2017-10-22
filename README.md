@@ -4,7 +4,7 @@ Fun Project for HAMR@ISMIR 2017
 ## Usage
 
     conda env create -f environment.yml    # setting up environment
-    source activate hamr2017               # activating environemnt
+    source activate hamr2017               # activating environment
     jupyter notebook hamr-orchestra.ipynb  # starting notebook
 
 ## Contribution
